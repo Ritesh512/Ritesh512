@@ -7,7 +7,7 @@
 > - 🔭 I’m currently pursuing my **CSE Engineering from VIT college.**  
 > - 🌱 I’m currently learning java and web development
 > - 💬 Ask me about **programming languages** `Python`,`C`,`SQL`,`Java`,`C++`
-> - 📫 How to reach me: [Instagram](https://www.instagram.com/riteshprajapati3319/) 
+> - 📫 How to reach me: [Linkdein]([https://www.instagram.com/riteshprajapati3319/](https://www.linkedin.com/in/ritesh-prajapati-918b6a205/)) 
 > - 😄 Pronouns: `He/His`  
 > - ⚡ Fun fact: Always active between 9 to 9 😅😅
 
