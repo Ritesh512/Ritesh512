@@ -5,8 +5,8 @@
 </div>
 
 > - 🔭 I’m currently pursuing my **CSE Engineering from VIT college.**  
-> - 🌱 I’m currently learning java and web development
-> - 💬 Ask me about **programming languages** `Python`,`C`,`SQL`,`Java`,`C++`
+> - 🌱 I’m currently Working on MERN Stack
+> - 💬 Ask me about **programming languages** `C/C++`,`JavaScript`,`Python`,`SQL`,`Java`,`MongoDB`
 > - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ritesh-prajapati-918b6a205/) 
 > - 😄 Pronouns: `He/His`  
 > - ⚡ Fun fact: Always active between 9 to 9 😅😅
